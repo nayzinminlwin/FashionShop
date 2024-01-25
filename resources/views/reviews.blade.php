@@ -154,6 +154,7 @@
   <div class="container-fluid fh5co-insta-feed activity">
     <div class="container recent">
       <div class="row mb-5 pb-5">
+
         <div class="col-lg-6">
           <div class="twit-box">
             <div class="media mb-3"> <img class="align-self-start mr-3 rounded-circle" src="<?php echo url('/'); ?>/img//twit-girl-img.png" alt="">
@@ -166,7 +167,8 @@
             <div class="clearfix"> <a href="#" class="btn btn-primary mt-2 float-right">Follow</a> </div>
           </div>
         </div>
-        <div class="col-lg-6 feed-caro">
+
+        <!-- <div class="col-lg-6 feed-caro">
           <h2>Instagram feed</h2>
           <div class="owl-carousel owl-carousel4 owl-theme">
             <div>
@@ -180,13 +182,14 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
+
       </div>
       <h2 class="text-center d-block">Find me on social media</h2>
       <div class="row social-links">
         <ul class="nav mx-auto">
-          <li class="nav-item"> <a class="nav-link" href="https://www.facebook.com/fh5co"><img src="<?php echo url('/'); ?>/img//facebook.png" alt=""></a> </li>
-          <li class="nav-item"> <a class="nav-link" href="https://twitter.com/fh5co"><img src="<?php echo url('/'); ?>/img//twitter.png" alt=""></a> </li>
+          <li class="nav-item"> <a class="nav-link" href="https://www.facebook.com"><img src="<?php echo url('/'); ?>/img//facebook.png" alt=""></a> </li>
+          <li class="nav-item"> <a class="nav-link" href="https://twitter.com"><img src="<?php echo url('/'); ?>/img//twitter.png" alt=""></a> </li>
           <li class="nav-item"> <a class="nav-link" href="#"><img src="<?php echo url('/'); ?>/img//pinterest.png" alt=""></a> </li>
           <li class="nav-item"> <a class="nav-link" href="#"><img src="<?php echo url('/'); ?>/img//google-plus.png" alt=""></a> </li>
         </ul>

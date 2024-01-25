@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    {{ __('You are logged in!') }} 
                     <br>
                     <a href="/onlineShop/AdminHeHee">Go to Admin Index.</a>
                 </div>
